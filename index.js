@@ -74,7 +74,7 @@ const safeCallback = (fn) => {
 // BOT CONFIGURATION
 // ==========================================
 
-const bot = new Telegraf('8280758503:AAGDzBqZFltoS45duvwi3zYgLFOqYeCz5No');
+const bot = new Telegraf('8503277297:AAFJkW1IMlJ3Eqc1VoC36wZwj1YLXL7KIn0');
 
 const OWNER_ID = 7537615443;
 const GRUP_LINK = "https://t.me/CUANBARENG_PING";
