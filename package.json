@@ -1,0 +1,20 @@
+{
+  "name": "bot-ping",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telegraf": "latest",
+    "nodemailer": "latest",
+    "axios": "latest",
+    "qrcode": "latest",
+    "@whiskeysockets/baileys": "latest",
+    "pino": "latest",
+    "csv-parser": "latest",
+    "xlsx": "latest",
+    "imap": "latest",
+    "mailparser": "latest"
+  }
+}
